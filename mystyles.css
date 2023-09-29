@@ -6,7 +6,29 @@
     background-color: rgb(174, 33, 50);
 }
 
+.container{
+    width: 100%;
+    text-align: left;
+}
+
 .carimg{
-    width: 6000px;
-    height: 500px;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.red-text{
+    color: red;
+}
+.middle{
+    text-align: center;
+}
+.big{
+    font-size: 14px;
+}
+.left{
+    text-align: left;
+}
+.middle-left{
+    text-align: center;
 }
