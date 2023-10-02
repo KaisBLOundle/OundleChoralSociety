@@ -24,7 +24,7 @@
     text-align: center;
 }
 .big{
-    font-size: 14px;
+    font-size: 15px;
 }
 .left{
     text-align: left;
@@ -32,3 +32,38 @@
 .middle-left{
     text-align: center;
 }
+.margin1{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.redback{
+    background-color: rgb(235, 52, 52);
+    
+}
+.white{
+    color: white;
+}
+.poster{
+    width: 420px;
+    height: 450px;
+}
+.padding{
+    padding-left: 120px;
+    
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 80px 200px;
+    gap: 10px;
+    
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  
