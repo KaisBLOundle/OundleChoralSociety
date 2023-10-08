@@ -33,11 +33,11 @@
     text-align: center;
 }
 .margin1{
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 220px;
+    margin-right: 220px;
 }
 .redback{
-    background-color: rgb(235, 52, 52);
+    background-color: rgb(172, 48, 62);
     
 }
 .white{
@@ -47,7 +47,7 @@
     width: 420px;
     height: 450px;
 }
-.padding{
+.padding1{
     padding-left: 120px;
     
 }
@@ -61,9 +61,75 @@
   }
   
   .grid-container > div {
-    background-color: rgba(255, 255, 255, 0.8);
+    
     text-align: center;
     padding: 20px 0;
     font-size: 30px;
   }
-  
+  .margin2{
+    margin-left: 375px;
+    margin-right: 375px;
+  }
+  .gridtitle1{
+    font-size: 25px;
+  }
+  .gridtitle2{
+    font-size: 29px;
+  }
+.pfp{
+    width: 275px;
+    height: 350px;
+}
+.mar-text{
+    color: rgb(155, 0, 0);
+}
+.cyan{
+    background-color: rgb(6, 167, 167);
+}
+.quotetext{
+    font-size: 21px ;
+}
+.margin3{
+    margin-left: 550px;
+    margin-right: 550px;
+    
+}
+.left{
+    text-align: left;
+}
+.whitetext{
+    color: white;
+}
+.padding2{
+    padding-left: 375px ;
+    padding-right: 375px;
+}
+.email{
+    font-size: 16px;
+}
+.policytext{
+    font-size: 18px;
+}
+
+.pad{
+    padding-left: 600px;
+}
+ul.a{
+    list-style-type: circle;
+}
+.ftimg{
+    width: 1200px;
+    height: 200px;
+}
+.left{
+    text-align: left;
+}
+.policy{
+    width: 80%;
+}
+.modal-body {
+    position: relative;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1rem;
+}
